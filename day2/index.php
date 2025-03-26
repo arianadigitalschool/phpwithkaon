@@ -32,15 +32,5 @@
             break;
     }
 
-    $y = 6; // 1+1=2 // 3 // 4 // 5 // 6 //
-    // while($y <= 6){
-    //     echo "<br> The number is: $y <br>";
-
-    //     $y++;
-    // };
-
-    do{
-        echo "The number is $y <br>";
-        $y++;
-    }while($y<=5);
+   
 ?>
